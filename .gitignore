@@ -19,4 +19,5 @@ Thumbs.db
 # Build output (if build tools are added later)
 dist/
 build/
+public/
 .cache/
